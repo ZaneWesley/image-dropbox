@@ -1,0 +1,6 @@
+{
+  "name": "Generated Web App",
+  "short_name": "Generated Web App",
+  "display": "standalone",
+  "start_url": "/"
+}
